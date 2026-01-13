@@ -7,7 +7,7 @@ O projeto simula um site institucional voltado para cuidados com pets, reforçan
 
 ## 🖥️ Preview
 <p align="center">
-  <img src="./assets/preview_wecare.png" alt="Preview do projeto" width="800">
+  <img src="./assets/preview_wecare.png" alt="Preview do projeto">
 </p>
 
 
@@ -38,11 +38,6 @@ O layout foi construído priorizando:
 - Boa legibilidade
 - Espaçamento consistente
 - Uso estratégico de cores para CTA
-
----
-
-## 🔗 Acesse o projeto
-👉 [Clique aqui para acessar](https://seu-link-aqui.netlify.app)
 
 ---
 
