@@ -7,7 +7,7 @@ O projeto simula um site institucional voltado para cuidados com pets, reforçan
 
 ## 🖥️ Preview
 <p align="center">
-  <img src="./assets/preview.png" alt="Preview do projeto" width="800">
+  <img src="./assets/preview_wecare.png" alt="Preview do projeto" width="800">
 </p>
 
 
