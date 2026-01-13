@@ -6,7 +6,10 @@ O projeto simula um site institucional voltado para cuidados com pets, reforçan
 ---
 
 ## 🖥️ Preview
-![Preview do projeto](./assets/preview.png)
+<p align="center">
+  <img src="./assets/preview.png" alt="Preview do projeto" width="800">
+</p>
+
 
 > Interface principal do projeto com menu de navegação, chamada principal e CTA.
 
