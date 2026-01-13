@@ -115,7 +115,7 @@ img {
 
     img {
         position: static;
-        width: 90%;
+        width: 70%;
         margin: 20px auto;
     }
 
@@ -137,6 +137,7 @@ img {
     p {
         font-size: 18px;
         margin: 20px 0 20px 0;
+        width: 100%;
     }
 
     .login {
